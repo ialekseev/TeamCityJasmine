@@ -13,5 +13,7 @@ test_runner.js should has valid path to TestRunner.html
 
 Links:
 http://blog.danmerino.com/continuos-integration-ci-for-javascript-jasmine-and-teamcity/
+
 http://pivotal.github.io/jasmine/
+
 https://github.com/ariya/phantomjs/
