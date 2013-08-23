@@ -20,3 +20,5 @@ http://blog.danmerino.com/continuos-integration-ci-for-javascript-jasmine-and-te
 http://pivotal.github.io/jasmine/
 
 https://github.com/ariya/phantomjs/
+
+http://www.jetbrains.com/teamcity/
