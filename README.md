@@ -3,22 +3,29 @@ TeamCityJasmine
 
 TeamCity + JasmineJs + PhantomJs standalone example.
 
+Complete set of files to run client-side tests(JasmineJs) in TeamCity:
 
-TeamCity command to execute: phantomjs.exe spec_runner.js
+- JasmineJs scripts
+- PhantomJs executable
+- jasmine.teamcity_reporter.js
+- example(scripts to test & actually tests)
 
-To test locally: run_local.bat
+TeamCity command to execute: *phantomjs.exe spec_runner.js*
 
-Notice:
+To run tests locally: *run_local.bat*
+
+**Notice:**
 spec_runner.js should has valid path to SpecRunner.html
 
 
-
-Links:
+*Links:*
 
 http://blog.danmerino.com/continuos-integration-ci-for-javascript-jasmine-and-teamcity/
 
 http://pivotal.github.io/jasmine/
 
 https://github.com/ariya/phantomjs/
+
+https://github.com/larrymyers/jasmine-reporters/
 
 http://www.jetbrains.com/teamcity/
