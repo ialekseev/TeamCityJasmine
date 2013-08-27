@@ -1,4 +1,4 @@
-var url = "../YourWebSite/TestRunner.html";
+var url = "../YourWebSite/SpecRunner.html";
 
 console.log('Loading a web page');
 var page = new WebPage();
